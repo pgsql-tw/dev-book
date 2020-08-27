@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Beginner](README.md)
+* [略懂](README.md)
 
