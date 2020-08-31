@@ -8,6 +8,7 @@
   * [1-1. Windows](basic/installation/windows.md)
   * [1-2. MacOS](basic/installation/macos.md)
 * [2. 連線架構](basic/untitled.md)
+* [3. 建立第一個資料庫](basic/create-first-database.md)
 
 ## 中階 <a id="mid"></a>
 
