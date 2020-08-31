@@ -7,4 +7,5 @@
 * [1. 安裝](basic/installation/README.md)
   * [1-1. Windows](basic/installation/windows.md)
   * [1-2. MacOS](basic/installation/macos.md)
+* [2. 連線架構](basic/untitled.md)
 
