@@ -1,0 +1,2 @@
+# Full/Full Outer Join
+
