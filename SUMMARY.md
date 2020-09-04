@@ -2,7 +2,7 @@
 
 * [略懂PG - Developer](README.md)
 
-## 初階 <a id="basic"></a>
+## 入門 <a id="basic"></a>
 
 * [1. 安裝](basic/installation/README.md)
   * [1-1. Windows](basic/installation/windows.md)
@@ -21,20 +21,20 @@
     * [Day 6 統計/總計/篩選你的禮物清單](basic/cao-gao-di-yi-zhou-chu-yu-postgresql/day-46-dui-zi-liao-ku-de-cao-zuo-li-wu-qing-chan/day-6-tong-ji-zong-ji-shai-xuan-ni-de-li-wu-qing-chan.md)
   * [Day 7 從程式端連線至PostgreSQL](basic/cao-gao-di-yi-zhou-chu-yu-postgresql/day-7-cong-cheng-shi-duan-lian-xian-zhi-postgresql.md)
 
-## 中階 <a id="mid"></a>
+## 進階 <a id="adv"></a>
 
-* [1. ER Model](mid/1.-er-model.md)
-* [Join](mid/join/README.md)
-  * [Join兩張表](mid/join/join-liang-zhang-biao.md)
-  * [Inner Join](mid/join/inner-join.md)
-  * [Right/Left Join](mid/join/right-left-join.md)
-  * [Full/Full Outer Join](mid/join/full-full-outer-join.md)
-* [Key](mid/key/README.md)
-  * [Primary Key](mid/key/primary-key.md)
-  * [Unique Key](mid/key/unique-key.md)
-  * [Foreign Key](mid/key/foreign-key.md)
-  * [Constraint](mid/key/constraint.md)
-* [View](mid/view.md)
-* [Trigger](mid/trigger.md)
-* [Function](mid/function.md)
+* [1. ER Model](adv/1.-er-model.md)
+* [Join](adv/join/README.md)
+  * [Join兩張表](adv/join/join-liang-zhang-biao.md)
+  * [Inner Join](adv/join/inner-join.md)
+  * [Right/Left Join](adv/join/right-left-join.md)
+  * [Full/Full Outer Join](adv/join/full-full-outer-join.md)
+* [Key](adv/key/README.md)
+  * [Primary Key](adv/key/primary-key.md)
+  * [Unique Key](adv/key/unique-key.md)
+  * [Foreign Key](adv/key/foreign-key.md)
+  * [Constraint](adv/key/constraint.md)
+* [View](adv/view.md)
+* [Trigger](adv/trigger.md)
+* [Function](adv/function.md)
 
