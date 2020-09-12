@@ -15,7 +15,7 @@
   * [Day 4 資料異動](basic/cao-gao-di-yi-zhou-chu-yu-postgresql/day-5-xiu-gai-yu-shan-chu-li-wu-qing-chan.md)
   * [Day 5 資料查詢\(二\)](basic/cao-gao-di-yi-zhou-chu-yu-postgresql/day-4-xie-ru-yu-cha-xun-li-wu-qing-chan.md)
   * [Day 6 從程式端連線至PostgreSQL](basic/cao-gao-di-yi-zhou-chu-yu-postgresql/day-7-cong-cheng-shi-duan-lian-xian-zhi-postgresql.md)
-  * [Day 7 資料庫系統的架構](basic/cao-gao-di-yi-zhou-chu-yu-postgresql/day-7-zi-liao-ku-xi-tong-de-jia-gou.md)
+  * [Day 7 資料庫設計的入門](basic/cao-gao-di-yi-zhou-chu-yu-postgresql/day-7-zi-liao-ku-xi-tong-de-jia-gou.md)
 
 ## 進階 <a id="adv"></a>
 
